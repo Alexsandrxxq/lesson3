@@ -1,2 +1,3 @@
 print("Connecting to server NATO")
-print("HACKs gompleterd!!!")
+print("HACKs completerd!!!")
+print("Hack again")
